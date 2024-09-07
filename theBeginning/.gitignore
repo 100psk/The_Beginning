@@ -1,0 +1,12 @@
+# Virtual environment
+venv/
+
+# Mit projekt, men hvorfor ikke tracke det?
+theBeginning/
+
+# Python cache files
+*.pyc
+__pycache__/
+
+# macOS specific files
+.DS_Store
