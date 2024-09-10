@@ -3,5 +3,5 @@ from . import views
 
 # Map the root URL to the 'blog_index' view
 urlpatterns = [
-    path('', views.blog_index, name='blog_posts'),
+    path('', views.blog_index, name='index'),
 ]
